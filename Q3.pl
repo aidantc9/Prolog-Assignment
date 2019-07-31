@@ -1,0 +1,1 @@
+area([[AX|AY],[BX|BY],[CX|CY]],A):- A is 0.5*((BX-AX)*(CY-AY)-(CX-AX)*(BY-AY)).%pretty staright forward just applying the given formula 
